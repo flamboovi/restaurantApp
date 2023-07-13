@@ -1,0 +1,60 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Ovi Restaurant",
+      "owner": "Md Owais Javed",
+      "mobile": "+91 9051203790",
+      "email": "abc@gmail.com",
+      "location": "Kolkata"
+    },
+    {
+      "id": 2,
+      "name": "Indian Restaurant",
+      "owner": "Md Asif",
+      "mobile": "+91 9051203790",
+      "email": "abc@gmail.com",
+      "location": "Kidderpore"
+    },
+    {
+      "id": 3,
+      "name": "Taj Bengal",
+      "owner": "Md Owais Javed",
+      "mobile": "+91 9051203790",
+      "email": "abc@gmail.com",
+      "location": "NOIDA"
+    },
+    {
+      "id": 4,
+      "name": "ITC Sonar Bangla",
+      "owner": "Jarvis Arcade",
+      "mobile": "9051203790",
+      "email": "itc.sonarbangla@gmail.com",
+      "location": "Kolkata"
+    },
+    {
+      "id": 5,
+      "name": "ITC Sonar Bangla",
+      "owner": "Jarvis Arcade",
+      "mobile": "9051203790",
+      "email": "itc.sonarbangla@gmail.com",
+      "location": "Kolkata"
+    },
+    {
+      "id": 6,
+      "name": "ITC Sonar Bangla",
+      "owner": "Jarvis Arcade",
+      "mobile": "9051203790",
+      "email": "itc.sonarbangla@gmail.com",
+      "location": "Kolkata"
+    },
+    {
+      "id": 7,
+      "name": "",
+      "owner": "",
+      "mobile": "",
+      "email": "",
+      "location": ""
+    }
+  ]
+}
