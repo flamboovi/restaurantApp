@@ -15,11 +15,17 @@ import { AddResaturantComponent } from './add-resaturant/add-resaturant.componen
 import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatInputModule} from '@angular/material/input';
 import {MatCardModule} from '@angular/material/card';
+import { EditResaturantComponent } from './edit-resaturant/edit-resaturant.component';
+import {MatDialogModule} from '@angular/material/dialog';
+import { DeleteRestaurantComponent } from './delete-restaurant/delete-restaurant.component';
+
 @NgModule({
   declarations: [
     AppComponent,
     DashboardComponent,
-    AddResaturantComponent
+    AddResaturantComponent,
+    EditResaturantComponent,
+    DeleteRestaurantComponent
   ],
   imports: [
     BrowserModule,
@@ -34,7 +40,8 @@ import {MatCardModule} from '@angular/material/card';
     MatFormFieldModule,
     MatInputModule,
     MatCardModule,
-    FormsModule
+    FormsModule,
+    MatDialogModule
   ],
   providers: [],
   bootstrap: [AppComponent]
